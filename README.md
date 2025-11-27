@@ -148,7 +148,44 @@ All plots are generated in the notebook and exported to `visuals/`.
 
 ---
 
-## 6. Business Takeaways
+## 6.Before vs After Cleaning
+
+The screenshots below show a quick comparison of the raw dataset vs the final cleaned version.
+
+### 🛑 Before Cleaning (Raw Data)
+
+- Missing values in key columns (Units Sold, Unit Price, Date)
+- Inconsistent data types
+- Negative or zero values that made analysis unreliable
+- No clear segmentation between valid and invalid records
+
+![Before Cleaning](docs/Before_raw_data.png)
+
+---
+
+### ✅ After Cleaning (Final Usable Dataset)
+
+- Only valid sales retained (positive values and complete fields)
+- Missing values handled logically (not blindly dropped)
+- Columns standardized and converted to correct data types
+- Feature engineering added (`Month`, `Weekday`, `Revenue per Unit`)
+
+![After Cleaning](docs/After_cleaned_data.png)
+
+---
+
+### 📌 Summary of Transformation
+
+| Metric | Before | After |
+|--------|--------|-------|
+| Accuracy | ❌ Not analysis-ready | ✅ Clean and valid |
+| Missing Values | Many in critical columns | Resolved logically |
+| Format | Mixed/dirty values | Standardized & validated |
+| Business Use | Impossible to analyze | Ready for reporting & dashboarding |
+
+---
+
+## 7. Business Takeaways
 
 - The business relies on **high-ticket apparel items** (jackets, dresses) for most of its profit.
 - Accessories like **Sunglasses** act as **volume drivers** but are not the top profit contributors.
