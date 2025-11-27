@@ -132,33 +132,19 @@ All plots are generated in the notebook and exported to `visuals/`.
 
 ### 5.1 Units Sold by Product
 
-Shows which items drive **demand**.  
-`Sunglasses` and `Leather Jacket` lead in quantity sold; several items have very low volume.
+![Units Sold by Product](visuals/units_sold_by_product.png)
 
 ### 5.2 Profit by Product
 
-Shows which items drive **profit**.
-
-- `Leather Jacket` and `Maxi Dress` generate the highest profit.
-- Some lower-volume items still contribute strong profit.
-- A few SKUs have weak or negative profit → candidates for pricing review.
+![Profit by Product](visuals/profit_by_product.png)
 
 ### 5.3 Monthly Revenue Trend
 
-Monthly aggregation of `Sales_Amount` reveals:
+![Monthly Revenue Trend](visuals/monthly_revenue_trend.png)
 
-- Clear revenue spikes in specific months (e.g., March, August, December).
-- Weak months that may need stronger promotions or campaigns.
+### 5.4 Profit by Segment
 
-### 5.4 Profit by Customer Segment
-
-Pie chart of profit by `Segment`:
-
-- **B2B** accounts for ~55% of profit.  
-- **B2C** accounts for ~26%.  
-- **Unknown** accounts for the rest – caused by missing segment information.
-
-This indicates a **B2B-heavy business model**, with some data-quality issues in segment tracking.
+![Profit by Segment](visuals/profit_by_segment.png)
 
 ---
 
