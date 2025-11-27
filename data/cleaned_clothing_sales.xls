@@ -1,0 +1,25 @@
+Order_ID,Customer_Name,Product_Category,Product_Name,Units_Sold,Unit_Price,Discount_%,Sales_Amount,Order_Date,City,Segment,Profit,Year,Month,Weekday,Revenue_per_Unit
+1816,Danielle Love,T-Shirts,Graphic Tee,1.0,1130.83,0.84,1121.331028,2023-07-28,Hyderabad,Unknown,-804.96,2023,July,Friday,1121.331028
+1720,Dylan Armstrong,Jackets,Leather Jacket,3.0,3667.54,0.57,10939.905066,2023-07-31,Ahmedabad,B2B,459.43,2023,July,Monday,3646.635022
+1615,Joel Fitzpatrick,Dresses,Casual Midi,6.0,4962.7,0.02,29770.244759999998,2023-08-04,Hyd,B2C,61.6,2023,August,Friday,4961.70746
+2522,Russell King,Dresses,Wrap Dress,4.0,2847.02,0.57,11323.167943999999,2023-09-02,Pune,Unknown,1592.04,2023,September,Saturday,2830.7919859999997
+2640,Richard Lopez,Jackets,Leather Jacket,6.0,4720.23,0.69,28125.962477999998,2023-12-29,Ahmedabad,B2B,2243.09,2023,December,Friday,4687.660413
+2820,Stephanie Johnson,Accessories,Caps,1.0,2454.71,0.1,2452.25529,2024-01-03,Mumbai,B2B,2850.37,2024,January,Wednesday,2452.25529
+1741,Jennifer Dominguez,T-Shirts,Graphic Tee,1.0,1762.56,0.98,1745.2869119999998,2024-01-13,Ahmedabad,B2B,1217.93,2024,January,Saturday,1745.2869119999998
+1018,Thomas Cole,Dresses,Maxi Dress,1.0,2847.86,0.7,2827.9249800000002,2024-03-09,Delhi,B2C,2190.67,2024,March,Saturday,2827.9249800000002
+1487,Nancy Taylor,Accessories,Sunglasses,6.0,1234.08,0.71,7351.908192,2024-03-15,Delhi,B2C,-849.81,2024,March,Friday,1225.318032
+1628,Gary Simon,Dresses,Bodycon,1.0,3345.58,0.26,3336.881492,2024-04-15,Hyd,Unknown,2274.54,2024,April,Monday,3336.881492
+2649,Melissa Flowers,Accessories,Sunglasses,3.0,3838.55,0.91,11410.857585000002,2024-07-31,Pune,B2C,2380.44,2024,July,Wednesday,3803.6191950000007
+3282,Nicholas Cox,Jeans,Ripped Denim,2.0,4405.96,0.28,8787.246624,2024-08-24,Bangalore,B2B,503.27,2024,August,Saturday,4393.623312
+3113,Veronica Goodwin,Shoes,Loafers,4.0,3256.86,0.77,12927.128712,2024-09-13,bengaluru,B2B,-109.08,2024,September,Friday,3231.782178
+3267,Cathy Zamora,Dresses,Maxi Dress,1.0,3965.8,0.48,3946.76416,2024-10-22,bengaluru,B2B,1222.85,2024,October,Tuesday,3946.76416
+1135,Ronald Ballard,Shoes,Sneakers,4.0,1556.96,0.84,6175.526144,2024-10-23,Mumbai,B2B,1432.84,2024,October,Wednesday,1543.881536
+1717,Marie Nelson,T-Shirts,Crop Top,4.0,1279.2,0.27,5102.98464,2024-11-15,Delhi,B2C,453.7,2024,November,Friday,1275.74616
+2027,Vanessa Hale,Shoes,Slip-ons,5.0,2734.95,0.17,13651.502924999999,2025-01-04,Mumbai,B2C,-657.03,2025,January,Saturday,2730.300585
+2605,Diana Buchanan,Dresses,Casual Midi,1.0,1636.26,0.94,1620.879156,2025-01-10,Hyd,Unknown,615.81,2025,January,Friday,1620.879156
+1608,Lindsay Sanchez,Shoes,Slip-ons,3.0,3536.61,0.79,10526.012343,2025-02-20,Mumbai,B2C,-55.01,2025,February,Thursday,3508.6707810000003
+1690,Mary Tran,Jackets,Puffer Coat,5.0,1941.39,0.54,9654.532470000002,2025-03-04,Delhi,B2C,206.95,2025,March,Tuesday,1930.9064940000003
+1719,Lisa Vang,Jeans,Boyfriend Jeans,3.0,4407.79,0.64,13138.740431999999,2025-03-15,Delhi,B2B,1150.06,2025,March,Saturday,4379.580144
+1866,Dylan Roth,T-Shirts,Graphic Tee,4.0,4471.17,0.6,17777.37192,2025-04-23,Pune,B2C,1335.92,2025,April,Wednesday,4444.34298
+2272,Martin Lynch,Jackets,Leather Jacket,4.0,2540.1,0.69,10090.293239999999,2025-05-26,Mumbai,B2C,733.06,2025,May,Monday,2522.5733099999998
+2034,Amanda Jones,Accessories,Sunglasses,6.0,3080.12,0.26,18432.670128,2025-06-23,Hyderabad,B2C,-678.89,2025,June,Monday,3072.1116880000004
